@@ -1,4 +1,4 @@
-# COP-Meetings-SI-Support
+# COP/ROP22-SI-Support
 This repo will be used to track USAID SIEI support needed during the COP meetings for USAID Missions working in PEPFAR.
 
 Please see the issue template https://github.com/USAID-OHA-SI/COP-Meetings-SI-Support/issues/1 for submitting SIEI support needs throughout the COP season. 
